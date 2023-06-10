@@ -1,0 +1,63 @@
+.heading
+{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.heading > ul
+{
+    padding-top: 10px;
+}
+.heading >  ul >li 
+{
+    display: inline;
+    margin-right: 10px;
+}
+.login
+{
+    float: right;
+    color: white;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+.banner > img
+{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.date > p
+{
+    color: gray;
+    margin-left: 50px;
+    font-size: small;
+}
+.menu
+{
+    float: right;
+    font-size: small;
+    color: grey;
+    margin-top: -41px;
+}
+.menu > ul > li
+{
+    display: inline;
+    margin-right: 10px;
+}
+.section
+{
+    margin-left: 100px;
+    border: solid;
+    width: 100px;
+    border-width: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: lightgray;
+}
+.logo
+{
+    margin-left: 390px;
+    margin-top: 80px;
+}
+
+
